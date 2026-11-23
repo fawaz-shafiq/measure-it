@@ -1,2 +1,6 @@
 __pycache__/
 .venv/
+
+dataset/raw/
+dataset/undistorted/
+calibration/images/
