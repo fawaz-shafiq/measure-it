@@ -1,0 +1,9 @@
+﻿{
+  "tool": "steel ruler (1 mm resolution, +/-0.5 mm reading uncertainty)",
+  "method": "measured from 10 mm mark looking straight down",
+  "marker_id": 11,
+  "marker_side_mm": 30.0,
+  "card_width_mm": 54.0,
+  "card_height_mm": 85.0,
+  "notes": "width = shorter side (5.4 cm), height = longer side (8.5 cm)"
+}
