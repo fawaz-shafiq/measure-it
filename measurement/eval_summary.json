@@ -1,0 +1,18 @@
+{
+  "n_test_images": 7,
+  "n_evaluated": 7,
+  "failed": [],
+  "ground_truth_mm": {
+    "width": 54.0,
+    "height": 85.0
+  },
+  "undistorted": {
+    "mae_mm": 1.5883,
+    "max_err_mm": 5.161
+  },
+  "raw": {
+    "mae_mm": 1.2038,
+    "max_err_mm": 4.632
+  },
+  "mae_diff_raw_minus_undist_mm": -0.3845
+}

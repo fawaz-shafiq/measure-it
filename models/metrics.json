@@ -1,0 +1,19 @@
+{
+  "best_val": {
+    "mean_iou": 0.9820801511500139,
+    "min_iou": 0.9692838761019874,
+    "max_iou": 0.990815747818211,
+    "detection_rate": 1.0,
+    "n_images": 14
+  },
+  "test": {
+    "mean_iou": 0.9798783132491451,
+    "min_iou": 0.9740636424681042,
+    "max_iou": 0.9855799195421837,
+    "detection_rate": 1.0,
+    "n_images": 7
+  },
+  "epochs": 15,
+  "scale": 0.25,
+  "seed": 42
+}
